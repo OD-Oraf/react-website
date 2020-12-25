@@ -1,5 +1,5 @@
 :root {
-    --primary : #fff
+    --primary : #fff;
 }
 
 .btn {
@@ -35,8 +35,10 @@
     font-size: 20px ;
 }
 
-.btn--medium :hover, .btn--large :hover {
+.btn--medium :hover, 
+.btn--large :hover {
 background: #fff;
 color: #242424; 
 transition: all 0.3 ease-out; 
+
 }  
