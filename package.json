@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "http://OD-Oraf.github.io/react-website",
+=======
+  "homepage ": "http://{OD-Oraf}.github.io/react-website" ,
+>>>>>>> parent of e5a76a9... test2
   "name": "react-website",
   "version": "0.1.0",
   "private": true,
