@@ -21,14 +21,18 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  /* color: #fff; */
+  color: #fff;
   font-size: 100px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  
 }
 
 .products {
   background-image: url('img-1.jpg');
   background-position: center;
-  background-size: fill;
+  background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
