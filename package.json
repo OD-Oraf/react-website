@@ -1,6 +1,6 @@
 {
-  "homepage ": "https://odoraf.com//react-website",
   "name": "react-website",
+  "homepage ": "https://odoraf.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
